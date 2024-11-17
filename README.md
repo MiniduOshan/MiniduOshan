@@ -18,6 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MiniduOshan&show_icons=true&locale=en" alt="MiniduOshan" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduOshan&" alt="MiniduOshan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduOshan&" alt="MiniduOshan" /></p>
 
 
