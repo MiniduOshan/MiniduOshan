@@ -17,10 +17,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/minidu oshan" target="blank">
+  <a href="https://www.linkedin.com/in/minidu-oshan-5ab0b2310/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minidu oshan" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/@sci_techsl" target="blank">
+  <a href="https://www.youtube.com/@Sci_TechSL" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sci_techsl" height="30" width="40" />
   </a>
 </p>
@@ -57,7 +57,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/miniduoshan">
+  <a href="https://www.buymeacoffee.com/miniduoshan" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="miniduoshan" />
   </a>
 </p>
