@@ -74,5 +74,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miniduoshan&" alt="miniduoshan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miniduoshan&" />
 </p>
