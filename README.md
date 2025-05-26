@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/minidu-oshan-5ab0b2310/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minidu oshan" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@Sci_TechSL" target="_blank">
+  <a href="https://www.youtube.com/@Sci_Tech_SL" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sci_techsl" height="30" width="40" />
   </a>
 </p>
