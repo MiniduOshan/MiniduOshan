@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, web development, App development, or anything tech-related!**
 
-- 📫 How to reach me: **tnology23@gmail.com**
+- 📫 How to reach me: **miniduoshan23@gmail.com**
 
 ---
 
