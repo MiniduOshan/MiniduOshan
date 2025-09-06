@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development, Python, React JS, and C**
 
-- 🎓 [BICT undergraduate at the University Of Colombo](BICT undergraduate at the University Of Colombo)
+- 🎓 BICT undergraduate at the University of Colombo
 
-- 💬 Ask me about **Python, web development, App development, or anything tech-related!**
+- 💬 Ask me about **JavaScript, web development, App development, or anything tech-related!**
 
 - 📫 How to reach me: **miniduoshan23@gmail.com**
 
