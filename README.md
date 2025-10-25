@@ -69,4 +69,4 @@
 ---
 
 ### ⚡ Fun Fact  
-> "When I’m not coding, you’ll probably find me exploring tech trends, designing UI ideas, or sipping coffee while debugging 🚀☕"
+> "When I’m not coding, you’ll probably find me exploring tech trends, designing UI ideas, or taking coffee while debugging 🚀☕"
