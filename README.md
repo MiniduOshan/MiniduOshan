@@ -14,6 +14,7 @@
 
 
 ---
+Portfolio - https://miniduoshan.me/
 
 ### 🌟 About Me  
 - 🌱 Currently diving deeper into **Full Stack Development, React JS, Next JS and C**  
@@ -44,20 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miniduoshan&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniduoshan&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miniduoshan&theme=tokyonight" alt="streak stats" />
-</p>
-
----
 
 ### ☕ Support My Work  
 <p align="center">
