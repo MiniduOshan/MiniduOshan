@@ -21,7 +21,7 @@ Portfolio - https://miniduoshan.me/
 - 🎓 **BICT undergraduate** at the **University of Colombo**  
 - 💡 Passionate about **building modern web & mobile applications**  
 - 💬 Ask me about **JavaScript, React, App Development, or anything tech-related!**  
-- 📫 Reach me at: **miniduoshan23@gmail.com**  
+- 📫 Reach me at: **drkstar2003@gmail.com**  
 
 ---
 
