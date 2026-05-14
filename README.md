@@ -17,12 +17,15 @@
 Portfolio - https://miniduoshan.me/
 
 ### 🌟 About Me  
-- 🌱 Currently diving deeper into **Full Stack Development, React JS, Next JS and C**  
-- 🎓 **BICT undergraduate** at the **University of Colombo**  
-- 💡 Passionate about **building modern web & mobile applications**  
-- 💬 Ask me about **JavaScript, React, App Development, or anything tech-related!**  
-- 📫 Reach me at: **drkstar2003@gmail.com**  
-
+- 👨‍💻 Software Engineer | Founder of Aurion
+- 🎓 BICT Undergraduate at the University of Colombo
+- 🚀 Focused on Full Stack Development, DevOps, and AI/ML Engineering
+- 🛠️ Working with React, Next.js, Java, Laravel, Docker, and Cloud Technologies
+- 🌱 Exploring Open Source, System Design,Database Administration and Performance Optimisation
+- 💡 Passionate about building scalable and impactful digital solutions
+- 🤝 Interested in startups, hackathons, and innovative tech communities
+- 📫 Reach me at: drkstar2003@gmail.com 
+ 
 ---
 
 ### 🤝 Connect with Me
