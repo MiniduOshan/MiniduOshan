@@ -10,7 +10,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miniduoshan&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" />
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/miniduoshan.svg)](https://user-badge.committers.top/sri_lanka/miniduoshan)
+  <!--<a href="https://user-badge.committers.top/sri_lanka/miniduoshan">
+    <img src="https://user-badge.committers.top/sri_lanka/miniduoshan.svg" alt="committers.top badge" />
+  </a>-->
 </p>
 
 
